@@ -2,8 +2,11 @@ CAFETERÍA OPENAI
 
 Bebidas:
 
-- Café
-- Té
+- Café solo
+- Té verde
+- Chocolate caliente
+- Zumo de naranja
 
 Postres:
 - Tarta de queso
+- Brownie
